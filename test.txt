@@ -1,2 +1,0 @@
-This is the txt file named "text.txt".
-Just for testing.
